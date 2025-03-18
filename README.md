@@ -3,7 +3,7 @@
 <h2>Full Stack Developer 💻</h2>
 
 ### About Me
-I'm Thomas Giraldo, a 21-year-old software developer and web designer. I specialize in creating web pages using Stack MERN and other technologies, leveraging my skills in SQL databases. I'm highly creative, persistent, and always eager to learn and apply new knowledge.
+I'm Thomas Giraldo, a 22-year-old software developer and web designer. I specialize in creating web pages using Stack MERN and other technologies, leveraging my skills in SQL databases. I'm highly creative, persistent, and always eager to learn and apply new knowledge.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
